@@ -1,3 +1,4 @@
-![Image of Yaktocat](breakthecycle.jpg)
+![morty](breakthecycle.jpg)
+
 Break the cycle, Morty. Rise above, focus on science.
 
